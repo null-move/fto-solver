@@ -1,1 +1,0 @@
-"""Local chess endgame trainer."""
